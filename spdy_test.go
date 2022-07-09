@@ -29,7 +29,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/shorelinesoftware/spdystream/spdy"
+	"github.com/docker/spdystream/spdy"
 )
 
 func TestSpdyStreams(t *testing.T) {
