@@ -21,7 +21,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/shorelinesoftware/spdystream/spdy"
+	"github.com/docker/spdystream/spdy"
 )
 
 func TestPriorityQueueOrdering(t *testing.T) {

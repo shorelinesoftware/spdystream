@@ -25,7 +25,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/shorelinesoftware/spdystream/spdy"
+	"github.com/docker/spdystream/spdy"
 )
 
 var (
