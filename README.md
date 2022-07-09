@@ -11,7 +11,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/moby/spdystream"
+	"github.com/shorelinesoftware/spdystream"
 	"net"
 	"net/http"
 )
@@ -49,7 +49,7 @@ Server example (mirroring server without auth)
 package main
 
 import (
-	"github.com/moby/spdystream"
+	"github.com/shorelinesoftware/spdystream"
 	"net"
 )
 

@@ -1,4 +1,4 @@
-module github.com/moby/spdystream
+module github.com/shorelinesoftware/spdystream
 
 go 1.13
 
